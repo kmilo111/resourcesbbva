@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 03 15:42:26 COT 2025
+https\://artifactory.globaldevtools.bbva.com\:443/artifactory/gl-apx-dev-maven-virtual/.lastUpdated=1743712946914
+@default-global-https\://globaldevtools.bbva.com/artifactory-api/aso-arq-virtual/.lastUpdated=1718740998961
+https\://globaldevtools.bbva.com/artifactory-api/aso-arq-virtual/.error=Could not transfer artifact biz.aQute.bnd\:biz.aQute.bndlib\:pom\:4.0.0 from/to global (https\://globaldevtools.bbva.com/artifactory-api/aso-arq-virtual)\: status code\: 401, reason phrase\: Unauthorized (401)
+https\://artifactory.globaldevtools.bbva.com/artifactory/common-aso-maven-virtual/.lastUpdated=1718740999167
