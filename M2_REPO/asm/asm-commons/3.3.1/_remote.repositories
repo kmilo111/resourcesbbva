@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 19 16:49:33 CEST 2018
+asm-commons-3.3.1.jar>public=
+asm-commons-3.3.1.jar>central=
+asm-commons-3.3.1.pom>central=
+asm-commons-3.3.1.pom>public=

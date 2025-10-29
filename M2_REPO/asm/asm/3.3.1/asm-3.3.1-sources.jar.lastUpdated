@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 26 11:15:00 COT 2019
+@default-spring-roo-repository-http\://spring-roo-repository.springsource.org/release/.lastUpdated=1495180561028
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.lastUpdated=1553616900371
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.error=
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact asm\:asm\:jar\:sources\:3.3.1 from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: maven.alfresco.com
+http\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact asm\:asm\:jar\:sources\:3.3.1 from/to spring-roo-repository (http\://spring-roo-repository.springsource.org/release)\: spring-roo-repository.springsource.org
+http\://maven.springframework.org/release/.error=Could not transfer artifact asm\:asm\:jar\:sources\:3.3.1 from/to spring-maven-release (http\://maven.springframework.org/release)\: Connect to maven.springframework.org\:80 [maven.springframework.org/104.16.120.250, maven.springframework.org/104.16.118.250, maven.springframework.org/104.16.119.250, maven.springframework.org/104.16.117.250, maven.springframework.org/104.16.121.250] failed\: Connection timed out\: connect
+@default-spring-maven-milestone-http\://maven.springframework.org/milestone/.lastUpdated=1495180561013
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1553616899110
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.lastUpdated=1495180350945
+@default-Activiti-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1495180561163
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1495180350880
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.error=
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact asm\:asm\:jar\:sources\:3.3.1 from/to spring-maven-milestone (http\://maven.springframework.org/milestone)\: Connect to maven.springframework.org\:80 [maven.springframework.org/104.16.120.250, maven.springframework.org/104.16.121.250, maven.springframework.org/104.16.117.250, maven.springframework.org/104.16.118.250, maven.springframework.org/104.16.119.250] failed\: Connection timed out\: connect
+@default-spring-maven-release-http\://maven.springframework.org/release/.lastUpdated=1495180455977
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.error=
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.error=
