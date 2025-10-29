@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 26 15:49:23 CEST 2017
+@default-spring-roo-repository-http\://spring-roo-repository.springsource.org/release/.lastUpdated=1493214563225
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.error=
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact cglib\:cglib-nodep\:pom\:unknown from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: maven.alfresco.com
+http\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact cglib\:cglib-nodep\:pom\:unknown from/to spring-roo-repository (http\://spring-roo-repository.springsource.org/release)\: spring-roo-repository.springsource.org
+http\://maven.springframework.org/release/.error=Could not transfer artifact cglib\:cglib-nodep\:pom\:unknown from/to spring-maven-release (http\://maven.springframework.org/release)\: Connect to maven.springframework.org\:80 [maven.springframework.org/104.16.121.250, maven.springframework.org/104.16.119.250, maven.springframework.org/104.16.120.250, maven.springframework.org/104.16.118.250, maven.springframework.org/104.16.117.250] failed\: Connection timed out\: connect
+@default-spring-maven-milestone-http\://maven.springframework.org/milestone/.lastUpdated=1493214563186
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.lastUpdated=1493214353015
+@default-Activiti-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1493214563291
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1493214352944
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact cglib\:cglib-nodep\:pom\:unknown from/to spring-maven-milestone (http\://maven.springframework.org/milestone)\: Connect to maven.springframework.org\:80 [maven.springframework.org/104.16.121.250, maven.springframework.org/104.16.117.250, maven.springframework.org/104.16.119.250, maven.springframework.org/104.16.120.250, maven.springframework.org/104.16.118.250] failed\: Connection timed out\: connect
+@default-spring-maven-release-http\://maven.springframework.org/release/.lastUpdated=1493214458103
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.error=

@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 03 11:23:28 CEST 2018
+@default-spring-roo-repository-http\://spring-roo-repository.springsource.org/release/.lastUpdated=1495182509711
+@default-arq-test-http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1495182509543
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.lastUpdated=1535966608273
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.error=Could not transfer artifact cglib\:cglib-nodep\:jar\:sources\:2.2 from/to arq-test (http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/)\: ldbad101.igrupobbva
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact cglib\:cglib-nodep\:jar\:sources\:2.2 from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: maven.alfresco.com
+http\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact cglib\:cglib-nodep\:jar\:sources\:2.2 from/to spring-roo-repository (http\://spring-roo-repository.springsource.org/release)\: spring-roo-repository.springsource.org
+http\://maven.springframework.org/release/.error=Could not transfer artifact cglib\:cglib-nodep\:jar\:sources\:2.2 from/to spring-maven-release (http\://maven.springframework.org/release)\: No route to host\: connect
+@default-global-http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.lastUpdated=1495182509564
+@default-spring-maven-milestone-http\://maven.springframework.org/milestone/.lastUpdated=1495182509695
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1535966608131
+@default-Activiti-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1495182509724
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact cglib\:cglib-nodep\:jar\:sources\:2.2 from/to spring-maven-milestone (http\://maven.springframework.org/milestone)\: No route to host\: connect
+@default-spring-maven-release-http\://maven.springframework.org/release/.lastUpdated=1495182509676
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.error=Could not transfer artifact cglib\:cglib-nodep\:jar\:sources\:2.2 from/to global (http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/)\: ldbad101.igrupobbva
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.error=

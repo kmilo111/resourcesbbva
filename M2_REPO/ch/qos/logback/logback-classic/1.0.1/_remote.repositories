@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 04 15:01:00 CEST 2017
+logback-classic-1.0.1.pom>public=
+logback-classic-1.0.1.jar>public=
+logback-classic-1.0.1.jar>central=
+logback-classic-1.0.1.pom>central=
+logback-classic-1.0.1.pom>codehaus-mule-repo=
+logback-classic-1.0.1.jar>codehaus-mule-repo=

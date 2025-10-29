@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 06 11:35:21 CEST 2018
+cglib-2.2.2.jar>global=
+cglib-2.2.2-sources.jar>global=
+cglib-2.2.2.pom>public=
+cglib-2.2.2.jar>=
+cglib-2.2.2.jar>public=
+cglib-2.2.2-sources.jar>=
+cglib-2.2.2.pom>global=

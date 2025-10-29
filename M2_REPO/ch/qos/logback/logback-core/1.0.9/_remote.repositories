@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 03 10:26:21 CEST 2017
+logback-core-1.0.9.jar>public=
+logback-core-1.0.9.jar>central=
+logback-core-1.0.9.pom>central=
+logback-core-1.0.9.pom>global=
+logback-core-1.0.9.pom>public=
+logback-core-1.0.9.jar>global=

@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 04 16:48:14 CEST 2018
+cglib-nodep-2.2.pom>public=
+cglib-nodep-2.2.jar>global=
+cglib-nodep-2.2-sources.jar>public=
+cglib-nodep-2.2-sources.jar>=
+cglib-nodep-2.2.jar>=
+cglib-nodep-2.2.jar>central=
+cglib-nodep-2.2.jar>public=
+cglib-nodep-2.2.pom>central=
+cglib-nodep-2.2.pom>global=

@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 05 10:20:16 CEST 2017
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1484901513760
+@default-public-http\://20.1.21.247\:8081/nexus/content/groups/global/.lastUpdated=1484839457219
+https\://repository-master.mulesoft.org/nexus/content/groups/public/.lastUpdated=1491310860586
+http\://20.1.21.247\:8081/nexus/content/groups/global/.error=Could not transfer artifact ch.qos.logback\:logback-classic\:pom\:1.0.1 from/to public (http\://20.1.21.247\:8081/nexus/content/groups/global/)\: Connect to 20.1.21.247\:8081 [/20.1.21.247] failed\: Connection timed out\: connect
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.lastUpdated=1491380416204
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1491380416189
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.error=

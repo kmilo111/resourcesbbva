@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 14 14:13:15 COT 2025
+https\://repo.maven.apache.org/maven2/.lastUpdated=1755198795557
+d7ee545ad56ece535d2b999cea237d81fb1587e1@default-artifactory-APX-https\://artifactory.globaldevtools.bbva.com\:443/artifactory/gl-apx-dev-maven-virtual/.lastUpdated=1755198795504
+https\://artifactory.globaldevtools.bbva.com\:443/artifactory/gl-apx-dev-maven-virtual/.error=Could not transfer artifact ch.qos.logback\:logback-core\:pom\:1.5.18 from/to artifactory-APX (https\://artifactory.globaldevtools.bbva.com\:443/artifactory/gl-apx-dev-maven-virtual)\: status code\: 401, reason phrase\:  (401)
