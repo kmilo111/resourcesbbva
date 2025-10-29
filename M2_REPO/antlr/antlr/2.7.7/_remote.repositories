@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 12 15:43:15 COT 2024
+antlr-2.7.7.jar>global=
+antlr-2.7.7.pom>public=
+antlr-2.7.7.jar>=
+antlr-2.7.7.jar>public=
+antlr-2.7.7.pom>artifactory-aso-virtual=
+antlr-2.7.7.pom>global=

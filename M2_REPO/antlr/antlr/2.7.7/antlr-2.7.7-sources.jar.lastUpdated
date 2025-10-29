@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 18 15:47:02 COT 2024
+http\://lcm-dependencies-vip.live.mx.nextgen.igrupobbva/artifactory/global/.error=
+http\://lcm-dependencies-vip.live.mx.nextgen.igrupobbva/artifactory/global/.lastUpdated=1557493942776
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.lastUpdated=1535966611590
+@default-public-http\://repo1.maven.org/maven2/.lastUpdated=1557150520447
+46ac20e2bd6040b08c70981144a331f57e42c641@default-artifactory-aso-virtual-https\://artifactory.globaldevtools.bbva.com/artifactory/common-aso-maven-virtual/.lastUpdated=1718743622589
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1535966611448
+https\://repo.maven.apache.org/maven2/.lastUpdated=1718743622808
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.7 from/to public (http\://repo1.maven.org/maven2/)\: repo1.maven.org
+https\://artifactory.globaldevtools.bbva.com/artifactory/common-aso-maven-virtual/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.7 from/to artifactory-aso-virtual (https\://artifactory.globaldevtools.bbva.com/artifactory/common-aso-maven-virtual)\: status code\: 403, reason phrase\:  (403)
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.error=

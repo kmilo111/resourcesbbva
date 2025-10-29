@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 08:12:48 COT 2019
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.error=
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.error=
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1537349447649
+@default-public-http\://repo1.maven.org/maven2/.lastUpdated=1557166023888
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact antlr\:antlr\:jar\:javadoc\:2.7.7 from/to public (http\://repo1.maven.org/maven2/)\: repo1.maven.org
+http\://lcm-dependencies-vip.live.mx.nextgen.igrupobbva/artifactory/global/.lastUpdated=1557493968158
+http\://lcm-dependencies-vip.live.mx.nextgen.igrupobbva/artifactory/global/.error=
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.lastUpdated=1537349447668

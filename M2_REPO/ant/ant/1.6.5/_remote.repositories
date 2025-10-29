@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 17 10:31:47 CEST 2017
+ant-1.6.5.jar>global=
+ant-1.6.5.pom>public=
+ant-1.6.5.jar>public=
+ant-1.6.5.pom>global=

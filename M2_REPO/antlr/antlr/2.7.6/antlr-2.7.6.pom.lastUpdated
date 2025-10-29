@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 03 15:42:51 COT 2025
+https\://artifactory.globaldevtools.bbva.com\:443/artifactory/gl-apx-dev-maven-virtual/.lastUpdated=1743712970979
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.lastUpdated=1489057873382
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1489057873367
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.error=
+https\://artifactory.globaldevtools.bbva.com/artifactory/common-aso-maven-virtual/.lastUpdated=1718741014327

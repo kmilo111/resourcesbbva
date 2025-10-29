@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 03 15:42:50 COT 2025
+antlr-2.7.6.jar>public=
+antlr-2.7.6-sources.jar>=
+antlr-2.7.6.pom>artifactory-APX=
+antlr-2.7.6-sources.jar>public=
+antlr-2.7.6.pom>artifactory-aso-virtual=
+antlr-2.7.6.pom>global=
+antlr-2.7.6.pom>public=
+antlr-2.7.6.jar>=
+antlr-2.7.6.jar>global=

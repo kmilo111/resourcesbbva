@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 19 12:19:47 CEST 2018
+@default-spring-roo-repository-http\://spring-roo-repository.springsource.org/release/.lastUpdated=1495182509452
+@default-arq-test-http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1495182509225
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/groups/global/.lastUpdated=1537352387359
+http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.6 from/to arq-test (http\://ldbad101.igrupobbva\:8081/nexus/content/repositories/srv-arq-test-releases/)\: ldbad101.igrupobbva
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.6 from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: maven.alfresco.com
+http\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.6 from/to spring-roo-repository (http\://spring-roo-repository.springsource.org/release)\: spring-roo-repository.springsource.org
+http\://maven.springframework.org/release/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.6 from/to spring-maven-release (http\://maven.springframework.org/release)\: No route to host\: connect
+@default-global-http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.lastUpdated=1495182509296
+@default-spring-maven-milestone-http\://maven.springframework.org/milestone/.lastUpdated=1495182509438
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.lastUpdated=1537352386777
+@default-Activiti-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1495182509488
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.6 from/to spring-maven-milestone (http\://maven.springframework.org/milestone)\: No route to host\: connect
+@default-spring-maven-release-http\://maven.springframework.org/release/.lastUpdated=1495182509321
+http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.6 from/to global (http\://ldbad101.igrupobbva\:8081/nexus/content/groups/global/)\: ldbad101.igrupobbva
+http\://lcm-repository-artifacts.igrupobbva/nexus/content/repositories/srv-arq-test-releases/.error=
